@@ -27,6 +27,7 @@ ul li{
 ul li:first-child,
 ul li:last-child{
 	padding:10px;
+	font-size:22px;
 	background-color:white;
 }
 ul li:nth-last-child(3){
